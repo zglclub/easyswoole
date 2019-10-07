@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7511c10b-bd0b-40f0-8c69-0569bfe37c99" name="easyswoole" url="http://132.232.12.234">
+        <fileTransfer host="132.232.12.234" port="1234">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="1234" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
